@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About page
+# About page
 
+Welcome to Saku Hakamaa's GitHub pages!
